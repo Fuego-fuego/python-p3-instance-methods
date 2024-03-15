@@ -2,6 +2,13 @@
 
 class Dog:
     # Class body goes here
-
+    
     #Instance method definition
-    pass
+    # Bark
+    def bark(self):
+        print("Woof!")
+    # Sit
+    def sit(self):
+        print("The dog is sitting.")
+
+        
